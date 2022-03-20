@@ -138,7 +138,7 @@ const RESOURCES = {
 "assets/assets/juice/TAMARIND-DRIND-tamarind%2520drink-150.jpg": "add56e304e6c4f8db77e332929ed1276",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "21197fbc72f768e89cc9b0d88c98fbc3",
+"assets/NOTICES": "7068e0b2fd1d2631950f3990affe696a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -147,9 +147,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0cddfda9ff2a58f9a4c9106d9d961cf1",
-"/": "0cddfda9ff2a58f9a4c9106d9d961cf1",
-"main.dart.js": "26401c09cfb73f080881ed63f2b1bc34",
+"index.html": "7db9fdb7c081349c6f847b498c0f9343",
+"/": "7db9fdb7c081349c6f847b498c0f9343",
+"main.dart.js": "adb029362d7e7e2bc1a08c1984e988f0",
 "manifest.json": "4fd720ff007d465ac703a6ce89b67792",
 "version.json": "535284ca201ac83e898bc90297982288"
 };
